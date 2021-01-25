@@ -1,0 +1,52 @@
+﻿Attended,First Name,Last Name,Direccion De Correo Electronico,Registration Time,Approval Status,Join Time,Leave Time,Time in Session (minutes),Country/Region Name
+Yes,Scott,Murray,scmurray@visa.com,7/24/2020 9:16,approved,7/29/2020 11:50,7/29/2020 12:15,26,United States of America
+Yes,Bertrand,Blacha,bertrand.blacha@accor.com,7/27/2020 15:40,approved,7/29/2020 11:30,7/29/2020 12:15,45,France
+Yes,Susan,Ryan,sryan@mgmresorts.com,7/28/2020 11:55,approved,7/29/2020 11:28,7/29/2020 12:15,47,United States of America
+Yes,Mathanraj,Manokararatnam,mmanokararatnam@thehazeltonhotel.com,7/27/2020 8:22,approved,7/29/2020 11:28,7/29/2020 12:15,47,Canada
+Yes,Christopher,Ortiz,chris.ortiz@hyatt.com,7/17/2020 17:39,approved,7/29/2020 11:35,7/29/2020 11:53,19,United States of America
+Yes,Myron,Fernandes,myron.fernandes@oracle.com,7/28/2020 8:51,approved,7/29/2020 11:27,7/29/2020 12:15,49,United Kingdom
+Yes,Ingmar,Huering,ingmar.huering@oracle.com,7/22/2020 9:40,approved,7/29/2020 11:32,7/29/2020 11:49,18,United States of America
+Yes,Danian,Hacker,danian.hacker@islandoutpost.com,7/27/2020 20:58,approved,7/29/2020 11:27,7/29/2020 12:15,48,Jamaica
+Yes,Vivien,MENDONCA,vmendonca@thehazeltonhotel.com,7/29/2020 8:33,approved,7/29/2020 11:33,7/29/2020 12:15,43,Canada
+Yes,Matthias,Heyde,mheyde@matthiashey.de,7/23/2020 4:18,approved,7/29/2020 11:27,7/29/2020 12:12,45,Germany
+Yes,Emad,Elsayed,eelsayed@saudicoelectronics.com,7/21/2020 3:39,approved,7/29/2020 11:31,7/29/2020 12:15,45,Saudi Arabia
+Yes,Angelique,Waldron,angelique.waldron@oracle.com,7/15/2020 19:12,approved,7/29/2020 11:29,7/29/2020 12:15,47,United States of America
+Yes,Marcelus,Bento,marcelus.bento@accor.com,7/17/2020 7:55,approved,7/29/2020 11:35,7/29/2020 12:15,41,Canada
+Yes,Ali,Mroueh,amroueh@book4time.com,7/21/2020 10:27,approved,7/29/2020 11:32,7/29/2020 12:15,43,Canada
+Yes,Steven,Lee,Steven@nexplay.com,7/17/2020 11:42,approved,7/29/2020 11:27,7/29/2020 12:15,48,United States of America
+Yes,Sabrina,Delgado,Sabrina.delgado@oracle.com,7/27/2020 16:01,approved,7/29/2020 11:30,7/29/2020 12:15,45,United States of America
+Yes,,,DI.DAVILLAS@ORACLE.COM,7/28/2020 11:33,approved,7/29/2020 11:26,7/29/2020 12:15,50,United States of America
+Yes,Stephanie,Olufs,stephanie.olufs@oracle.com,7/17/2020 9:19,approved,7/29/2020 11:30,7/29/2020 12:15,45,United States of America
+Yes,Leslie,Albert,lalbert@sunpeaksgrand.com,7/28/2020 16:31,approved,7/29/2020 11:30,7/29/2020 12:15,45,Canada
+Yes,Jose,Motta,motta.jose@oracle.com,7/16/2020 16:29,approved,7/29/2020 11:36,7/29/2020 12:15,40,United States of America
+Yes,Sara,Canatario,sara.canatario@guestline.com,7/22/2020 13:49,approved,7/29/2020 11:27,7/29/2020 12:15,48,Portugal
+Yes,Tracy,Fashing,tracy.fashing@oracle.com,7/29/2020 11:16,approved,7/29/2020 11:27,7/29/2020 12:15,48,United States of America
+Yes,Brian,Kraft,brian.kraft@radissonhotels.com,7/27/2020 16:09,approved,7/29/2020 11:52,7/29/2020 12:15,24,United States of America
+Yes,Keith,Norof,keithnorof@gmail.com,7/28/2020 10:57,approved,7/29/2020 11:37,7/29/2020 12:15,39,United States of America
+Yes,Geoff,Bartlett,geoff.bartlett@panpacificvancouver.com,7/29/2020 11:21,approved,7/29/2020 11:31,7/29/2020 12:04,33,Canada
+Yes,Geoff,Bartlett,geoff.bartlett@panpacificvancouver.com,,,7/29/2020 12:12,7/29/2020 12:15,4,Canada
+Yes,Angilyn,Dutton,angilyn.dutton@cocokeyorlando.com,7/23/2020 9:38,approved,7/29/2020 11:30,7/29/2020 12:15,46,United States of America
+Yes,Collin,Coe,ccoe@ghgkz.com,7/23/2020 10:03,approved,7/29/2020 11:27,7/29/2020 12:15,48,United States of America
+Yes,Carolin,Hasshoff,carolin.hasshoff@oracle.com,7/23/2020 10:04,approved,7/29/2020 11:27,7/29/2020 12:15,49,Sweden
+Yes,Neerja ,Kathuria,neerja.s.kathuria@gmail.com,7/20/2020 12:13,approved,7/29/2020 12:11,7/29/2020 12:15,5,United States of America
+Yes,SOPHIA,TALBOT,sophie.talbot@oracle.com,7/20/2020 14:56,approved,7/29/2020 11:27,7/29/2020 12:15,48,United States of America
+Yes,Brandon,Standerfer,bstanderfer@olshotels.com,7/20/2020 19:38,approved,7/29/2020 11:28,7/29/2020 11:57,29,United States of America
+Yes,Jens,Schmidt,jens.t.schmidt@oracle.com,7/15/2020 15:52,approved,7/29/2020 11:47,7/29/2020 12:15,28,Brazil
+Yes,George,Martinez,george.martinez@cocokeyorlando.com,7/23/2020 16:03,approved,7/29/2020 11:32,7/29/2020 12:15,43,United States of America
+Yes,Laura,Gardner,laura.gardner23@yahoo.com,7/9/2020 11:52,approved,7/29/2020 10:35,7/29/2020 12:15,101,United States of America
+Yes,Sheri,Bender,sheri.bender@oracle.com,7/17/2020 17:15,approved,7/29/2020 11:27,7/29/2020 11:57,30,United States of America
+Yes,Judah,Berry,jberry@allsiteit.com,7/28/2020 18:33,approved,7/29/2020 11:45,7/29/2020 12:15,31,Canada
+Yes,Berk,Evrensel,berk.evrensel@littlecreek.com,7/29/2020 0:14,approved,7/29/2020 11:27,7/29/2020 12:15,49,United States of America
+Yes,Lesley,Gibson,lesley.gibson@oracle.com,7/27/2020 9:13,approved,7/29/2020 11:27,7/29/2020 12:15,48,United Kingdom
+Yes,Liz,Sherstad,liz.sherstad@optiisolutions.com,7/28/2020 11:02,approved,7/29/2020 11:34,7/29/2020 12:15,41,United States of America
+Yes,Oracle De Mexico,Velazquez,astrid.velazquez@oracle.com,7/15/2020 17:13,approved,7/29/2020 11:33,7/29/2020 12:15,42,Mexico
+Yes,Omkar,Sawant,omkar.sawant@onekingwest.com,7/25/2020 8:31,approved,7/29/2020 11:27,7/29/2020 12:16,49,Canada
+Yes,Laurent,Idrac,lidrac@hapicloud.io,7/21/2020 16:56,approved,7/29/2020 11:28,7/29/2020 12:15,47,United States of America
+Yes,Rafael José,Peña Vilaplana,rafael.pena@oracle.com,7/15/2020 17:38,approved,7/29/2020 11:35,7/29/2020 12:15,41,Mexico
+Yes,Júlia,Bertuol,julia@p3hotels.com,7/21/2020 10:24,approved,7/29/2020 11:30,7/29/2020 12:15,46,Ireland
+Yes,Anthony,Sguigna,anthony.sguigna@kingbridgecentre.com,7/26/2020 22:21,approved,7/29/2020 11:28,7/29/2020 12:15,47,Canada
+Yes,Murray,Henderson,mhenderson@theroyalhotel.ca,7/24/2020 10:33,approved,7/29/2020 11:29,7/29/2020 12:15,47,Canada
+
+
+
+https://www.youtube.com/watch?v=eicLNabvZN8
